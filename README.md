@@ -1,5 +1,4 @@
 ##[Genuine] (http://genuine-linux.github.io/genuine)
-=======
 
 Genuine GNU/Linux is a free operating system for your devices.
 
