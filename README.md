@@ -1,4 +1,4 @@
-[Genuine] (http://genuine-linux.github.io/genuine)
+##[Genuine] (http://genuine-linux.github.io/genuine)
 =======
 
 Genuine GNU/Linux is a free operating system for your devices.
@@ -6,13 +6,13 @@ Genuine GNU/Linux is a free operating system for your devices.
 An operating system is the set of basic programs and utilities that make your devices run.
 
 
-Genuine Releases
+###Genuine Releases
 ----------------
 
  * Release Candidate 01.14.04: has not been released yet.
 
 
-Getting Started
+###Getting Started
 ----------------
 
  - If you'd like to start using Genuine, you can easily obtain a copy, and then follow the installation instructions to install it on your specific device.
@@ -21,7 +21,7 @@ Getting Started
  - Users that speak languages other than English or Spanish should check the international section.
 
 
-Software Packages
+###Software Packages
 -----------------
 
  - Linux Kernel (3.14)
@@ -32,13 +32,21 @@ Software Packages
  - Enlightenment (DR18)
 
 
-Supported Devices
+###Supported Devices
 -----------------
 
  - x86
  - x86_64
  - arm
  - ppc
+
+### Authors and Contributors
+-----------------
+You can @mention a GitHub username to generate a link to their profile. The resulting `<a>` element will link to the contributor's GitHub Profile. For example: In 2007, Chris Wanstrath (@defunkt), PJ Hyett (@pjhyett), and Tom Preston-Werner (@mojombo) founded GitHub.
+
+### Support or Contact
+-----------------
+Having trouble with Pages? Check out the documentation at http://help.github.com/pages or contact support@github.com and we’ll help you sort it out.
 
 
 Genuine GNU/Linux (c) 2009-2014
