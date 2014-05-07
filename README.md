@@ -1,4 +1,4 @@
-Genuine
+Genuine (http://genuine-linux.github.io/genuine)
 =======
 
 Genuine GNU/Linux is a free operating system (OS) for your devices.
@@ -10,6 +10,7 @@ Genuine Releases
 ----------------
 
  * Release Candidate 01.14.04: has not been released yet.
+
 
 Getting Started
 ----------------
