@@ -41,7 +41,8 @@ An operating system is the set of basic programs and utilities that make your de
 
 ### Authors and Contributors
 -----------------
-In 2009, Antonio Cao (@burzumishi) started (@genuine-linux), on 2014 was published on GitHub.
+Antonio Cao (@burzumishi) started (@genuine-linux) project in 2009.
+Later in 2014 (@genuine-linux) project was published on GitHub.
 
 ### Support or Contact
 -----------------
