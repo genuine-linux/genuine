@@ -1,4 +1,4 @@
-Genuine GNU/Linux GitHub Pages
+Genuine GitHub Pages
 =======
 
 GitHub pages for Users, Publishers and Developers.
