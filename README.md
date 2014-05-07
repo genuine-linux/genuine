@@ -1,9 +1,5 @@
-Genuine
+[Genuine] (http://genuine-linux.github.io/genuine)
 =======
-
-#####http://genuine-linux.github.io/genuine
---------------------------------------
-
 
 Genuine GNU/Linux is a free operating system (OS) for your devices.
 
