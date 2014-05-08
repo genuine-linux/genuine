@@ -6,13 +6,11 @@ An operating system is the set of basic programs and utilities that make your de
 
 
 ###Genuine Releases
-----------------
 
  * Release Candidate 01.14.04: has not been released yet.
 
 
 ###Getting Started
-----------------
 
  - If you'd like to start using Genuine, you can easily obtain a copy, and then follow the installation instructions to install it on your specific device.
  - If you're upgrading to the latest stable release from a previous version, please read the release notes before proceeding.
@@ -21,7 +19,6 @@ An operating system is the set of basic programs and utilities that make your de
 
 
 ###Software Packages
------------------
 
  - Linux Kernel (3.14)
  - Eglibc (2.19)
@@ -32,7 +29,6 @@ An operating system is the set of basic programs and utilities that make your de
 
 
 ###Supported Devices
------------------
 
  - x86
  - x86_64
@@ -40,13 +36,13 @@ An operating system is the set of basic programs and utilities that make your de
  - ppc
 
 ### Authors and Contributors
------------------
+
 Antonio Cao (@burzumishi) started (@genuine-linux) project in 2009.
 Later in 2014 (@genuine-linux) project was published on GitHub.
 
 ### Support or Contact
------------------
+
 Having trouble with Genuine? Check out the documentation at Genuine Wiki or send an Issue and we’ll help you sort it out.
 
-
+==============
 Genuine GNU/Linux (c) 2009-2014
