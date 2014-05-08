@@ -45,4 +45,5 @@ Later in 2014 (@genuine-linux) project was published on GitHub.
 Having trouble with Genuine? Check out the documentation at Genuine Wiki or send an Issue and we’ll help you sort it out.
 
 ==============
+
 Genuine GNU/Linux (c) 2009-2014
