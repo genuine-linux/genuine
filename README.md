@@ -21,7 +21,8 @@ An operating system is the set of basic programs and utilities that make your de
 ###Software Packages
 
  - Linux Kernel (3.14)
- - Eglibc (2.19)
+ - Glibc (2.19)
+ - GCC (4.9.0)
  - Genetic (01.14.04)
  - Systemd (2.1.2)
  - Wayland (1.4.0)
