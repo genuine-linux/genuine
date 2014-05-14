@@ -1,13 +1,13 @@
 ##[Genuine] (http://genuine-linux.github.io/genuine)
 
-Genuine GNU/Linux is a free operating system for your devices.
+**Genuine GNU/Linux** is a free operating system for your devices.
 
-An operating system is the set of basic programs and utilities that make your devices run.
+An Operating System is the set of basic programs and utilities that make your devices run.
 
 
 ###Genuine Releases
 
- * Release Candidate 01.14.04: has not been released yet.
+ * **Release Candidate 01.14.04**: _has not been released yet_.
 
 
 ###Getting Started
@@ -38,13 +38,13 @@ An operating system is the set of basic programs and utilities that make your de
 
 ### Authors and Contributors
 
-Antonio Cao (@burzumishi) started (@genuine-linux) project in 2009.
-Later in 2014 (@genuine-linux) project was published on GitHub.
+**Antonio Cao** ([@burzumishi] (https://github.com/burzumishi)) started ([@genuine-linux] (https://github.com/genuine-linux)) project in **2009**.
+Later in **2014** (@genuine-linux) project was published on (GitHub) [http://github.com].
 
 ### Support or Contact
 
-Having trouble with Genuine? Check out the documentation at Genuine Wiki or send an Issue and we’ll help you sort it out.
+Having trouble with Genuine? Check out the documentation at [Genuine Wiki] (https://github.com/genuine-linux/genuine/wiki) or send an Issue and we’ll help you sort it out.
 
 ==============
 
-Genuine GNU/Linux (c) 2009-2014
+_Genuine GNU/Linux (c) 2009-2014_
