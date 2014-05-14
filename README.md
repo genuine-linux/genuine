@@ -4,11 +4,11 @@
 
 An Operating System is the set of basic programs and utilities that make your devices run.
 
-The main Genuine goal is to keep it simple!
+The main **Genuine** goal is to keep it fast and simple!
 
 ###Genuine Releases
 
- * **Release Candidate 01.14.04**: _has not been released yet_.
+ * **Release Candidate 01.14.04**: _has not been released yet! (Work in progress)_
 
 
 ###Getting Started
