@@ -4,6 +4,7 @@
 
 An Operating System is the set of basic programs and utilities that make your devices run.
 
+The main goal in Genuine is to keep it simple!
 
 ###Genuine Releases
 
