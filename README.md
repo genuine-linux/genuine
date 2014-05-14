@@ -41,8 +41,8 @@ An Operating System is the set of basic programs and utilities that make your de
 
 Feel free to contribute to **Genuine on GitHub**:
 
-* **[DNA] (https://github.com/genuine-linux/genuine-dna)**
-* **[Genetic] (https://github.com/genuine-linux/genetic)**
+* **[DNA Source Code] (https://github.com/genuine-linux/genuine-dna)**
+* **[Genetic Source Code] (https://github.com/genuine-linux/genetic)**
 
 
 ### Authors and Contributors
