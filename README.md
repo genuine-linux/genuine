@@ -39,7 +39,7 @@ An Operating System is the set of basic programs and utilities that make your de
 ### Authors and Contributors
 
 **Antonio Cao** ([@burzumishi] (https://github.com/burzumishi)) started ([@genuine-linux] (https://github.com/genuine-linux)) project in **2009**.
-Later in **2014** (@genuine-linux) project was published on (GitHub) [http://github.com].
+Later in **2014** ([@genuine-linux] (https://github.com/genuine-linux)) project was published on [GitHub] (http://github.com).
 
 ### Support or Contact
 
