@@ -36,6 +36,15 @@ An Operating System is the set of basic programs and utilities that make your de
  - arm
  - ppc
 
+
+### Source Code Repositories
+
+Feel free to contribute to **Genuine on GitHub**:
+
+* **[DNA] (https://github.com/genuine-linux/genuine-dna)**
+* **[Genetic] (https://github.com/genuine-linux/genetic)**
+
+
 ### Authors and Contributors
 
 **Antonio Cao** ([@burzumishi] (https://github.com/burzumishi)) started ([@genuine-linux] (https://github.com/genuine-linux)) project in **2009**.
