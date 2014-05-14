@@ -29,7 +29,7 @@ An Operating System is the set of basic programs and utilities that make your de
  - Enlightenment (DR18)
 
 
-###Supported Devices
+###Supported Device Architectures
 
  - x86
  - x86_64
