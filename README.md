@@ -60,4 +60,4 @@ Check out the documentation at [Genuine Wiki] (https://github.com/genuine-linux/
 
 ==============
 
-_Genuine GNU/Linux (c) 2009-2014_
+_**Genuine GNU/Linux** (c) 2009-2014_
