@@ -7,12 +7,12 @@ An Operating System is the set of basic programs and utilities that make your de
 The main **Genuine** goal is to keep it fast and simple!
 
 
-### Genuine User Releases
+### Genuine Releases (Users)
 
 * **[Genuine GNU/Linux Release Candidate G19.10.2](https://github.com/genuine-linux/genuine-dna/releases/tag/G19.10.1)**: _has not been released yet!_
 
 
-### Genuine Releases
+### Genuine DNA Releases (Developers)
 
  * **[Release Candidate G19.10.2](https://github.com/genuine-linux/genuine-dna/releases/tag/G19.10.1)**: _has been released!_
  * **Download:** [Genuine GNU/Linux G19.10.2](https://github.com/genuine-linux/genuine-dna/archive/G19.10.1.tar.gz)
