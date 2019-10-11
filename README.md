@@ -1,4 +1,4 @@
-##[Genuine] (http://genuine-linux.github.io/genuine)
+## [Genuine] (http://genuine-linux.github.io/genuine)
 
 **Genuine GNU/Linux** is a free operating system for your devices.
 
@@ -6,12 +6,12 @@ An Operating System is the set of basic programs and utilities that make your de
 
 The main **Genuine** goal is to keep it fast and simple!
 
-###Genuine Releases
+### Genuine Releases
 
  * **Release Candidate G19.10.2**: _has been released!_
 
 
-###Getting Started
+### Getting Started
 
  - If you'd like to start using Genuine, you can easily obtain a copy, and then follow the installation instructions to install it on your specific device.
  - If you're upgrading to the latest stable release from a previous version, please read the release notes before proceeding.
@@ -19,7 +19,7 @@ The main **Genuine** goal is to keep it fast and simple!
  - Users that speak languages other than English or Spanish should check the international section.
 
 
-###Software Packages
+### Software Packages
 
  - Linux Kernel (4.20)
  - Glibc (2.29)
@@ -30,7 +30,7 @@ The main **Genuine** goal is to keep it fast and simple!
  - Enlightenment (DR18)
 
 
-###Supported Device Architectures
+### Supported Device Architectures
 
  - x86
  - x86_64
