@@ -8,7 +8,7 @@ The main **Genuine** goal is to keep it fast and simple!
 
 ###Genuine Releases
 
- * **Release Candidate 01.14.04**: _has not been released yet! (Work in progress)_
+ * **Release Candidate G19.10.2**: _has been released!_
 
 
 ###Getting Started
@@ -21,12 +21,12 @@ The main **Genuine** goal is to keep it fast and simple!
 
 ###Software Packages
 
- - Linux Kernel (3.14)
- - Glibc (2.19)
- - GCC (4.9.0)
- - Genetic (01.14.04)
- - Systemd (2.1.2)
- - Wayland (1.4.0)
+ - Linux Kernel (4.20)
+ - Glibc (2.29)
+ - GCC (8.2.0)
+ - Genetic (19.10.2)
+ - Xorg (2019.1)
+ - Wayland (1.8.0)
  - Enlightenment (DR18)
 
 
@@ -60,4 +60,4 @@ Check out the documentation at [Genuine Wiki] (https://github.com/genuine-linux/
 
 ==============
 
-_**Genuine GNU/Linux** (c) 2009-2014_
+_**Genuine GNU/Linux** (c) 2009-2019_
