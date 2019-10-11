@@ -10,7 +10,7 @@ The main **Genuine** goal is to keep it fast and simple!
 ### Genuine Releases
 
  * **[Release Candidate G19.10.2](https://github.com/genuine-linux/genuine-dna/releases/tag/G19.10.1)**: _has been released!_
-   **Download:** [Genuine GNU/Linux G19.10.2](https://github.com/genuine-linux/genuine-dna/archive/G19.10.1.tar.gz)
+ * **Download:** [Genuine GNU/Linux G19.10.2](https://github.com/genuine-linux/genuine-dna/archive/G19.10.1.tar.gz)
 
 
 ### Getting Started
