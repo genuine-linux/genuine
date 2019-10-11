@@ -1,10 +1,11 @@
-## [Genuine] (http://genuine-linux.github.io/genuine)
+## [Genuine GNU/Linux]
 
 **Genuine GNU/Linux** is a free operating system for your devices.
 
 An Operating System is the set of basic programs and utilities that make your devices run.
 
 The main **Genuine** goal is to keep it fast and simple!
+
 
 ### Genuine Releases
 
