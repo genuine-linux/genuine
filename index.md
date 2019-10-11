@@ -43,7 +43,7 @@ The main **Genuine** goal is to keep it fast and simple!
 Feel free to contribute to **Genuine on GitHub**:
 
 * **[DNA Source Code] (https://github.com/genuine-linux/genuine-dna)**
-* **[Genetic Source Code] (https://github.com/genuine-linux/genetic)**
+* **[Genetic GenSrc] (https://github.com/genuine-linux/genetic-gensrc)**
 
 
 ### Authors and Contributors
