@@ -9,8 +9,8 @@ The main **Genuine** goal is to keep it fast and simple!
 
 ### Genuine Releases
 
- * **[Release Candidate G19.10.2] (https://github.com/genuine-linux/genuine-dna/releases/tag/G19.10.1)**: _has been released!_
-   **Download:** [Genuine GNU/Linux G19.10.2] (https://github.com/genuine-linux/genuine-dna/archive/G19.10.1.tar.gz)
+ * **[Release Candidate G19.10.2](https://github.com/genuine-linux/genuine-dna/releases/tag/G19.10.1)**: _has been released!_
+   **Download:** [Genuine GNU/Linux G19.10.2](https://github.com/genuine-linux/genuine-dna/archive/G19.10.1.tar.gz)
 
 
 ### Getting Started
@@ -44,21 +44,21 @@ The main **Genuine** goal is to keep it fast and simple!
 
 Feel free to contribute to **Genuine on GitHub**:
 
-* **[DNA Source Code] (https://github.com/genuine-linux/genuine-dna)**
-* **[Genetic GenSrc] (https://github.com/genuine-linux/genetic-gensrc)**
+* **[DNA Source Code](https://github.com/genuine-linux/genuine-dna)**
+* **[Genetic GenSrc](https://github.com/genuine-linux/genetic-gensrc)**
 
 
 ### Authors and Contributors
 
-**Antonio Cao** ([@burzumishi] (https://github.com/burzumishi)) started ([@genuine-linux] (https://github.com/genuine-linux)) project in **2009**.
+**Antonio Cao** ([@burzumishi](https://github.com/burzumishi)) started ([@genuine-linux](https://github.com/genuine-linux)) project in **2009**.
 
-Later in **2014** ([@genuine-linux] (https://github.com/genuine-linux)) project was published on [GitHub] (http://github.com).
+Later in **2014** ([@genuine-linux](https://github.com/genuine-linux)) project was published on [GitHub](http://github.com).
 
 ### Support or Contact
 
 Having trouble with Genuine?
 
-Check out the documentation at [Genuine Wiki] (https://github.com/genuine-linux/genuine/wiki) or send an Issue and we’ll help you sort it out.
+Check out the documentation at [Genuine Wiki](https://github.com/genuine-linux/genuine/wiki) or send an Issue and we’ll help you sort it out.
 
 ==============
 
