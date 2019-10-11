@@ -1,0 +1,8 @@
+title: Genuine
+description: "Genuine GNU/Linux "
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-midnight
+
+gems:
+  - jekyll-mentions
