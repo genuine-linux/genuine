@@ -9,7 +9,7 @@ The main **Genuine** goal is to keep it fast and simple!
 
 ### Genuine Releases (Users)
 
-* **[Genuine GNU/Linux Release Candidate G19.10.2](https://github.com/genuine-linux/genuine-dna/releases/tag/G19.10.1)**: _has not been released yet!_
+* **[Genuine GNU/Linux Release Candidate 20.03.08: _has not been released yet!_
 
 
 ### Genuine DNA Releases (Developers)
@@ -28,21 +28,21 @@ The main **Genuine** goal is to keep it fast and simple!
 
 ### Software Packages
 
- - Linux Kernel (4.20)
- - Glibc (2.29)
- - GCC (8.2.0)
- - Genetic (19.10.2)
+ - Linux Kernel (5.5.6)
+ - Glibc (2.31)
+ - GCC (9.2.0)
+ - Genetic (20.03.08)
  - Xorg (2019.1)
  - Wayland (1.8.0)
- - Enlightenment (DR18)
+ - Enlightenment (31.1)
 
 
 ### Supported Device Architectures
 
- - x86
- - x86_64
- - arm
- - ppc
+ - **x86** (not tested)
+ - **x86_64**
+ - **arm** (not tested)
+ - **ppc** (not tested)
 
 
 ### Source Code Repositories
@@ -51,6 +51,8 @@ Feel free to contribute to **Genuine on GitHub**:
 
 * **[DNA Source Code](https://github.com/genuine-linux/genuine-dna)**
 * **[Genetic GenSrc](https://github.com/genuine-linux/genetic-gensrc)**
+* **[InitramFS](https://github.com/genuine-linux/mkinitramfs)**
+* **[Wallpapers](https://github.com/genuine-linux/genetic-backgrounds)**
 
 
 ### Authors and Contributors
@@ -67,4 +69,4 @@ Check out the documentation at [Genuine Wiki](https://github.com/genuine-linux/g
 
 ==============
 
-_**Genuine GNU/Linux** (c) 2009-2019_
+_**Genuine GNU/Linux** (c) 2009-2020_
