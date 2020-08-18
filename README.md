@@ -9,7 +9,7 @@ The main **Genuine** goal is to keep it fast and simple!
 
 ### Genuine Releases (Users)
 
-* **[Genuine GNU/Linux Release Candidate 20.03.08: _has not been released yet!_
+* **[Genuine GNU/Linux Release Candidate 20.03.08**: _has not been released yet!_
 
 
 ### Genuine DNA Releases (Developers)
@@ -50,8 +50,9 @@ The main **Genuine** goal is to keep it fast and simple!
 Feel free to contribute to **Genuine on GitHub**:
 
 * **[DNA Source Code](https://github.com/genuine-linux/genuine-dna)**
+* **[Genetic Source Code](https://github.com/genuine-linux/genetic)**
 * **[Genetic GenSrc](https://github.com/genuine-linux/genetic-gensrc)**
-* **[InitramFS](https://github.com/genuine-linux/mkinitramfs)**
+* **[MKInitramFS](https://github.com/genuine-linux/mkinitramfs)**
 * **[Wallpapers](https://github.com/genuine-linux/genetic-backgrounds)**
 
 
@@ -59,7 +60,7 @@ Feel free to contribute to **Genuine on GitHub**:
 
 **Antonio Cao** ([@burzumishi](https://github.com/burzumishi)) started ([@genuine-linux](https://github.com/genuine-linux)) project in **2009**.
 
-Later in **2014** ([@genuine-linux](https://github.com/genuine-linux)) project was published on [GitHub](http://github.com).
+Later in **2014** ([@genuine-linux](https://github.com/genuine-linux)) project was moved to [GitHub](http://github.com).
 
 ### Support or Contact
 
