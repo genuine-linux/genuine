@@ -6,13 +6,10 @@ An Operating System is the set of basic programs and utilities that make your de
 
 The main **Genuine** goal is to keep it fast and simple!
 
-
-### Genuine Releases (Users)
-
-* **[Genuine GNU/Linux Release Candidate 20.03.08**: _has not been released yet!_
-
-
 ### Genuine DNA Releases (Developers)
+
+ * **[DNA Release Candidate G20.03.08](https://github.com/genuine-linux/genuine-dna/releases/tag/G20.03.08)**: _has been released!_
+ * **Download DNA:** [DNA Genuine GNU/Linux G20.03.08](https://github.com/genuine-linux/genuine-dna/archive/G20.03.08.tar.gz)
 
  * **[DNA Release Candidate G19.10.2](https://github.com/genuine-linux/genuine-dna/releases/tag/G19.10.1)**: _has been released!_
  * **Download DNA:** [DNA Genuine GNU/Linux G19.10.2](https://github.com/genuine-linux/genuine-dna/archive/G19.10.1.tar.gz)
@@ -28,6 +25,7 @@ The main **Genuine** goal is to keep it fast and simple!
 
 ### Software Packages
 
+ - Genuine Base System (20.03.08)
  - Linux Kernel (5.5.6)
  - Glibc (2.31)
  - GCC (9.2.0)
@@ -40,7 +38,7 @@ The main **Genuine** goal is to keep it fast and simple!
 ### Supported Device Architectures
 
  - **x86** (not tested)
- - **x86_64**
+ - **x86_64** (working)
  - **arm** (not tested)
  - **ppc** (not tested)
 
