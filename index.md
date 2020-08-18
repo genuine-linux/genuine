@@ -6,16 +6,14 @@ An Operating System is the set of basic programs and utilities that make your de
 
 The main **Genuine** goal is to keep it fast and simple!
 
-
-### Genuine Releases (Users)
-
-* **[Genuine GNU/Linux Release Candidate G19.10.2](https://github.com/genuine-linux/genuine-dna/releases/tag/G19.10.1)**: _has not been released yet!_
-
-
 ### Genuine DNA Releases (Developers)
+
+ * **[DNA Release Candidate G20.03.08](https://github.com/genuine-linux/genuine-dna/releases/tag/G20.03.08)**: _has been released!_
+ * **Download DNA:** [DNA Genuine GNU/Linux G20.03.08](https://github.com/genuine-linux/genuine-dna/archive/G20.03.08.tar.gz)
 
  * **[DNA Release Candidate G19.10.2](https://github.com/genuine-linux/genuine-dna/releases/tag/G19.10.1)**: _has been released!_
  * **Download DNA:** [DNA Genuine GNU/Linux G19.10.2](https://github.com/genuine-linux/genuine-dna/archive/G19.10.1.tar.gz)
+
 
 ### Getting Started
 
@@ -27,21 +25,22 @@ The main **Genuine** goal is to keep it fast and simple!
 
 ### Software Packages
 
- - Linux Kernel (4.20)
- - Glibc (2.29)
- - GCC (8.2.0)
- - Genetic (19.10.2)
+ - Genuine Base System (20.03.08)
+ - Linux Kernel (5.5.6)
+ - Glibc (2.31)
+ - GCC (9.2.0)
+ - Genetic (20.03.08)
  - Xorg (2019.1)
  - Wayland (1.8.0)
- - Enlightenment (DR18)
+ - Enlightenment (31.1)
 
 
 ### Supported Device Architectures
 
- - x86
- - x86_64
- - arm
- - ppc
+ - **x86** (not tested)
+ - **x86_64** (working)
+ - **arm** (not tested)
+ - **ppc** (not tested)
 
 
 ### Source Code Repositories
@@ -49,14 +48,17 @@ The main **Genuine** goal is to keep it fast and simple!
 Feel free to contribute to **Genuine on GitHub**:
 
 * **[DNA Source Code](https://github.com/genuine-linux/genuine-dna)**
+* **[Genetic Source Code](https://github.com/genuine-linux/genetic)**
 * **[Genetic GenSrc](https://github.com/genuine-linux/genetic-gensrc)**
+* **[MKInitramFS](https://github.com/genuine-linux/mkinitramfs)**
+* **[Wallpapers](https://github.com/genuine-linux/genetic-backgrounds)**
 
 
 ### Authors and Contributors
 
 **Antonio Cao** ([@burzumishi](https://github.com/burzumishi)) started ([@genuine-linux](https://github.com/genuine-linux)) project in **2009**.
 
-Later in **2014** ([@genuine-linux](https://github.com/genuine-linux)) project was published on [GitHub](http://github.com).
+Later in **2014** ([@genuine-linux](https://github.com/genuine-linux)) project was moved to [GitHub](http://github.com).
 
 ### Support or Contact
 
@@ -66,4 +68,4 @@ Check out the documentation at [Genuine Wiki](https://github.com/genuine-linux/g
 
 ==============
 
-_**Genuine GNU/Linux** (c) 2009-2019_
+_**Genuine GNU/Linux** (c) 2009-2020_
